@@ -1,5 +1,5 @@
 {
-  "name": "@wppconnect-team/wppconnect",
+  "name": "@matheus-de-araujo/wppconnect",
   "version": "1.36.4",
   "description": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination... 😀🤔💭",
   "main": "dist/index.js",
@@ -93,7 +93,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@wppconnect/wa-js": "^3.17.0",
+    "@wppconnect/wa-js": "github:matheus-de-araujo/wa-js",
     "@wppconnect/wa-version": "^1.5.1261",
     "atob": "^2.1.2",
     "axios": "^1.8.4",
